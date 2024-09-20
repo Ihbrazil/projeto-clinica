@@ -2,7 +2,7 @@
   "name": "projeto-clinica",
   "type": "module",
   "version": "1.0.0",
-  "description": "API que lista os dados de contato dos médicos de uma clínica de pediatria de um Banco de dados MySQL.",
+  "description": "API que lista os dados de contato dos médicos de uma clínica de pediatria de um Banco de dados MySQL medicosbd.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
